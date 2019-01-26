@@ -29,17 +29,3 @@
         ```
 
 
-
-__แหล่งข้อมูล__
-- หาข้อมูลการ convert xml to json แล้วได้แนวคิดการอ่าน xml มาก่อน แล้วค่อย convert เป็น json จาก
-https://stackoverflow.com/questions/191536/converting-xml-to-json-using-python
-- การอ่านข้อมูลใน xml
-https://docs.python.org/2/library/xml.etree.elementtree.html
-- การ convert to json 
-https://docs.python.org/2/library/json.html
-- การใช้งาน tuple, dict, list
-https://www.tutorialspoint.com/python/python_dictionary.htm
-- การ convert .py to .exe
-https://www.youtube.com/watch?v=lOIJIk_maO4
-- pattern การ convert
-https://www.xml.com/pub/a/2006/05/31/converting-between-xml-and-json.html
