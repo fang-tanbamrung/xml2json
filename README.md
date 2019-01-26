@@ -30,13 +30,7 @@
 
 
 
-
-
-
-
-
-
-แหล่งข้อมูล และแนวคิด
+แหล่งข้อมูล
 - หาข้อมูลการ convert xml to json แล้วได้แนวคิดการอ่าน xml มาก่อน แล้วค่อย convert เป็น json จาก
 https://stackoverflow.com/questions/191536/converting-xml-to-json-using-python
 - การอ่านข้อมูลใน xml
